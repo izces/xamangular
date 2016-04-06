@@ -14,7 +14,7 @@ xam.zorlac.exception = {
 };
 
 xam.zorlac.ng.Screen1 = {
-//Comment from demer
+//Comment from ulit ni demer
 
     XamAppModule: null,
 
