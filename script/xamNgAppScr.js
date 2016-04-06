@@ -14,7 +14,7 @@ xam.zorlac.exception = {
 };
 
 xam.zorlac.ng.Screen1 = {
-
+// comment new files
 
     XamAppModule: null,
 
